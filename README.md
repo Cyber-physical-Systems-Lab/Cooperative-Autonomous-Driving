@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
-- [Installation](#installation--usage)
+- [Installation](#installation)
 - [Simulations / Demos](#simulations--demos)
 - [Configuration](#configuration)
 - [Dependencies](#dependencies)
@@ -35,9 +35,9 @@ The system consists of:
 
 
 
-![System Diagram](img/full system architecture.png " System architecture")
+![System Diagram](img/full%20system%20architecture.png "System architecture")
 
-![System Diagram](img/full Autonomous car.png " Autonomous car")
+![System Diagram](img/full%20Autonomous%20car.png "Autonomous car")
 
 
 
@@ -85,7 +85,7 @@ Demo Scenarios:
 
 
 
-![System Diagram](img/full Autonomous car.png " Autonomous car")
+![System Diagram](img/full%20Autonomous%20car.png " Autonomous car")
 
 
 [![Autonomous cooperative driving](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DttnMoTqzJSg)](https://www.youtube.com/watch?v=ttnMoTqzJSg)
